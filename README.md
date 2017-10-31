@@ -1,6 +1,3 @@
-#### 项目地址
-https://github.com/heiniao/hosts
-
 #### 屏蔽广告
 This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
