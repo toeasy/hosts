@@ -1,0 +1,30 @@
+#### 项目地址
+https://github.com/heiniao/hosts
+
+#### 屏蔽广告
+This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
+
+#### 科学上网
+[Google]、[DuckDuckGo]、[Gmail]、[YouTube]、[Facebook]、[Twitter]、[Tumblr]、[Dropbox]、[OneDrive]、[Flickr]！
+
+#### 文件下载
+[hosts]
+
+#### 使用方法
+```shell
+sudo mv /etc/hosts{,.backup}
+sudo wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /etc/hosts
+```
+
+[Google]: https://www.google.com/ncr
+[DuckDuckGo]: https://duckduckgo.com/
+[Gmail]: https://mail.google.com/
+[YouTube]: https://www.youtube.com/
+[Facebook]: https://www.facebook.com/
+[Twitter]: https://twitter.com/
+[Tumblr]: https://www.tumblr.com/
+[Dropbox]: https://www.dropbox.com/
+[OneDrive]: https://onedrive.live.com/
+[Flickr]: https://www.flickr.com/
+
+[hosts]: https://raw.githubusercontent.com/heiniao/hosts/master/hosts
