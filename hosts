@@ -106,7 +106,7 @@ fe80::1%lo0 localhost
 # last updated:   Wed, 25 Oct 2017 06:55:31 GMT
 # format:         hosts (hosts -- in hosts file format)
 #
-# start date:    Wed, 05 Nov 1997 00:00:00
+# start date:    Thu, 06 Nov 1997 00:00:00
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 123found.com
