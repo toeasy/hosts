@@ -8,9 +8,17 @@ This hosts file is a merged collection of hosts from reputable sources, with a d
 [hosts]
 
 #### 使用方法
-```shell
+```sh
+# Linux
 sudo mv /etc/hosts{,.backup}
 sudo wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /etc/hosts
+
+# Windows
+# Press Win + X keyboard shortcut to bring up Win + X menu. Then from the menu click Windows PowerShell (Admin).
+# Windows PowerShell (Admin)
+mv C:\Windows\System32\drivers\etc\hosts C:\Windows\System32\drivers\etc\hosts.backup
+wget https://gitlab.com/hosts/hosts/raw/master/hosts -O C:\Windows\System32\drivers\etc\hosts
+ipconfig /flushdns
 ```
 
 [Google]: https://www.google.com/ncr
