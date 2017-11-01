@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-11-01
+# Last updated: 2017-11-02
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -102,15 +102,9 @@ fe80::1%lo0 localhost
 
 # Ad server list for use with hosts files to block ads
 #
-# For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 25 Oct 2017 06:55:31 GMT
-# entries:        2456
 # format:         hosts (hosts -- in hosts file format)
-# credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
-# other formats:  https://pgl.yoyo.org/adservers/formats.php
-# policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 # start date:    Thu, 06 Nov 1997 00:00:00
 127.0.0.1 101com.com
@@ -1321,7 +1315,6 @@ fe80::1%lo0 localhost
 127.0.0.1 content.ad
 127.0.0.1 contextweb.com
 127.0.0.1 conversantmedia.com
-127.0.0.1 conversionruler.com
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 copperchickens.com
 127.0.0.1 copycarpenter.com
@@ -2225,7 +2218,6 @@ fe80::1%lo0 localhost
 127.0.0.1 spezialreporte.de
 127.0.0.1 spillvacation.com
 127.0.0.1 spinbox.techtracker.com
-127.0.0.1 spinbox.versiontracker.com
 127.0.0.1 sponsorads.de
 127.0.0.1 sponsorpro.de
 127.0.0.1 sponsors.thoughtsmedia.com
@@ -2570,8 +2562,6 @@ fe80::1%lo0 localhost
 127.0.0.1 zmedia.com
 127.0.0.1 zv1.november-lax.com
 
-#version=201711012153
-#url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
 255.255.255.255	broadcasthost
@@ -2581,7 +2571,6 @@ fe80::1%lo0 localhost
 #android
 ::1             ip6-localhost
 #miwifi
-127.0.0.1 XiaoQiang
 @direct/official
 #uvwxyz.xyz
 74.222.26.86 bbs.uvwxyz.xyz
@@ -2903,8 +2892,6 @@ fe80::1%lo0 localhost
 @cps-taobao-click
 127.0.0.1 g.click.taobao.com
 127.0.0.1 i.click.taobao.com
-127.0.0.1 s.click.taobao.com
-127.0.0.1 s.click.tmall.com
 @cps-taobao-simba
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.simba.taobao.com
@@ -2925,9 +2912,7 @@ fe80::1%lo0 localhost
 127.0.0.1 au.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 oc.umeng.com
-127.0.0.1 umeng.com
 127.0.0.1 uop.umeng.com
-127.0.0.1 www.umeng.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 ex.umengcloud.com
 127.0.0.1 msg.umengcloud.com
@@ -3392,7 +3377,6 @@ fe80::1%lo0 localhost
 127.0.0.1 wap.mpush.qq.com
 #qq-t
 127.0.0.1 pingtcss.qq.com
-127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
 127.0.0.1 p.tencentmind.com
@@ -3742,8 +3726,6 @@ fe80::1%lo0 localhost
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
 #buy
-127.0.0.1 yhd.com
-127.0.0.1 www.yhd.com
 127.0.0.1 www.hisense.cn
 127.0.0.1 www.hisense.com
 127.0.0.1 www.aifou.cn
@@ -8451,7 +8433,6 @@ fe80::1%lo0 localhost
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la
 127.0.0.1 web2.51.la
-127.0.0.1 www.51.la
 #51network
 127.0.0.1 g.51network.com
 127.0.0.1 log.51network.com
@@ -8679,12 +8660,10 @@ fe80::1%lo0 localhost
 127.0.0.1 js.admin6.com
 127.0.0.1 jump.admin6.com
 #adpro.cn
-127.0.0.1 conversion.adpro.cn
 127.0.0.1 m.adpro.cn
 127.0.0.1 x.adpro.cn
 127.0.0.1 adpro.pro.cn
 127.0.0.1 adx.pro.cn
-127.0.0.1 conversion.pro.cn
 127.0.0.1 dsp.pro.cn
 127.0.0.1 mediapro.pro.cn
 127.0.0.1 pro.cn
@@ -10705,12 +10684,7 @@ fe80::1%lo0 localhost
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
-# Copyright (c) 2017, googlehosts members.
-# https://github.com/googlehosts/hosts
-# Last updated: 2017-11-01
 
-# This work is licensed under a CC BY-NC-SA 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Modified Hosts Start
 
