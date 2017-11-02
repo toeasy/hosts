@@ -1,11 +1,12 @@
+#### 项目地址
+`https://github.com/heiniao/hosts`
+`https://raw.githubusercontent.com/heiniao/hosts/master/hosts`
+
 #### 屏蔽广告
-This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
+屏蔽网站广告和软件广告，屏蔽跟踪，保护隐私，杜绝垃圾信息骚扰。
 
 #### 科学上网
 [Google]、[DuckDuckGo]、[Gmail]、[YouTube]、[Facebook]、[Twitter]、[Tumblr]、[Dropbox]、[OneDrive]、[Flickr]！
-
-#### 文件下载
-[hosts]
 
 #### 使用方法
 ```sh
@@ -31,5 +32,3 @@ ipconfig /flushdns
 [Dropbox]: https://www.dropbox.com/
 [OneDrive]: https://onedrive.live.com/
 [Flickr]: https://www.flickr.com/
-
-[hosts]: https://raw.githubusercontent.com/heiniao/hosts/master/hosts
