@@ -1,6 +1,6 @@
 #### 项目地址
-`https://github.com/heiniao/hosts`
-`https://raw.githubusercontent.com/heiniao/hosts/master/hosts`
+**项目地址**：`https://github.com/heiniao/hosts`
+**下载地址**：`https://raw.githubusercontent.com/heiniao/hosts/master/hosts`
 
 #### 屏蔽广告
 屏蔽网站广告和软件广告，屏蔽跟踪，保护隐私，杜绝垃圾信息骚扰。
