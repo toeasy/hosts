@@ -10,6 +10,8 @@
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
+127.0.0.1 host
+127.0.0.1 hostname
 255.255.255.255 broadcasthost
 ::1 localhost
 fe80::1%lo0 localhost
@@ -720,6 +722,7 @@ fe80::1%lo0 localhost
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 ads.virtualcountries.com
+127.0.0.1 ads.vnumedia.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 ads.weather.ca
@@ -783,6 +786,7 @@ fe80::1%lo0 localhost
 127.0.0.1 Adsatt.go.starwave.com
 127.0.0.1 adsby.bidtheatre.com
 127.0.0.1 adscale.de
+127.0.0.1 adscholar.com
 127.0.0.1 adscience.nl
 127.0.0.1 adscpm.com
 127.0.0.1 adsdaq.com
@@ -922,6 +926,7 @@ fe80::1%lo0 localhost
 127.0.0.1 advertmedia.de
 127.0.0.1 advertpro.sitepoint.com
 127.0.0.1 advertpro.ya.com
+127.0.0.1 adverts.carltononline.com
 127.0.0.1 advertserve.com
 127.0.0.1 advertstream.com
 127.0.0.1 advertwizard.com
@@ -1221,7 +1226,6 @@ fe80::1%lo0 localhost
 127.0.0.1 casinotreasure.com
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cbmall.com
-127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cecash.com
 127.0.0.1 centerpointmedia.com
@@ -1254,6 +1258,7 @@ fe80::1%lo0 localhost
 127.0.0.1 click2freemoney.com
 127.0.0.1 click2paid.com
 127.0.0.1 clickability.com
+127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickbank.com
 127.0.0.1 clickbank.net
@@ -1603,6 +1608,7 @@ fe80::1%lo0 localhost
 127.0.0.1 hitfarm.com
 127.0.0.1 hitiz.com
 127.0.0.1 hitlist.ru
+127.0.0.1 hitlounge.com
 127.0.0.1 hitometer.com
 127.0.0.1 hits.europuls.eu
 127.0.0.1 hits.informer.com
@@ -1622,6 +1628,7 @@ fe80::1%lo0 localhost
 127.0.0.1 hs-analytics.net
 127.0.0.1 htmlhubing.xyz
 127.0.0.1 httpool.com
+127.0.0.1 hurricanedigitalmedia.com
 127.0.0.1 hydramedia.com
 127.0.0.1 hyperbanner.net
 127.0.0.1 hypertracker.com
@@ -1673,6 +1680,7 @@ fe80::1%lo0 localhost
 127.0.0.1 insightexpress.com
 127.0.0.1 insightexpressai.com
 127.0.0.1 inspectorclick.com
+127.0.0.1 instantmadness.com
 127.0.0.1 intelliads.com
 127.0.0.1 intellitxt.com
 127.0.0.1 interactive.forthnet.gr
@@ -2016,6 +2024,7 @@ fe80::1%lo0 localhost
 127.0.0.1 prchecker.info
 127.0.0.1 precisioncounter.com
 127.0.0.1 predictad.com
+127.0.0.1 premium-offers.com
 127.0.0.1 presetrabbits.com
 127.0.0.1 primaryads.com
 127.0.0.1 primetime.net
@@ -2067,7 +2076,7 @@ fe80::1%lo0 localhost
 127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
 127.0.0.1 rampidads.com
-127.0.0.1 rank-master.de
+127.0.0.1 rank-master.com
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
@@ -2148,6 +2157,7 @@ fe80::1%lo0 localhost
 127.0.0.1 scambiobanner.aruba.it
 127.0.0.1 scanscout.com
 127.0.0.1 scarcestream.com
+127.0.0.1 scopelight.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 scratch2cash.com
 127.0.0.1 scripte-monster.de
@@ -2187,6 +2197,7 @@ fe80::1%lo0 localhost
 127.0.0.1 shinystat.it
 127.0.0.1 shiveringsail.com
 127.0.0.1 shockingswing.com
+127.0.0.1 shoppingads.com
 127.0.0.1 sidebar.angelfire.com
 127.0.0.1 simplisticnose.com
 127.0.0.1 sinceresofa.com
@@ -13802,6 +13813,10 @@ fe80::1%lo0 localhost
 23.41.77.13	av.voanews.com
 23.66.39.94	gdb.voanews.com
 # Voa End
+
+# Whatsapp Start
+157.240.1.53	www-cdn.whatsapp.net
+# Whatsapp End
 
 # Web.de Start
 82.165.229.94	suche.web.de
