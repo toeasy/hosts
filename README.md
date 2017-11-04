@@ -1,12 +1,12 @@
-#### 项目地址
-**项目地址**：`https://github.com/heiniao/hosts`  
-**下载地址**：`https://raw.githubusercontent.com/heiniao/hosts/master/hosts`
-
 #### 屏蔽广告
 屏蔽网站广告和软件广告，阻止跟踪，阻止恶意软件！
 
 #### 科学上网
 [Google]、[DuckDuckGo]、[Gmail]、[YouTube]、[Facebook]、[Twitter]、[Tumblr]、[Dropbox]、[OneDrive]、[Flickr]！
+
+#### 项目地址
+**项目地址**：`https://github.com/heiniao/hosts`  
+**下载地址**：`https://raw.githubusercontent.com/heiniao/hosts/master/hosts`
 
 #### 使用方法
 ```sh
