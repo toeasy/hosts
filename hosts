@@ -8234,8 +8234,6 @@ Localhost (DO NOT REMOVE) End
 ::1 localhost
 fe80::1%lo0 localhost
 0.0.0.0 0.0.0.0
-127.0.1.1 sbc
-127.0.0.53 sbc
 
 # Custom host records are listed here.
 

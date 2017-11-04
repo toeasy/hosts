@@ -3,7 +3,7 @@
 **下载地址**：`https://raw.githubusercontent.com/heiniao/hosts/master/hosts`
 
 #### 屏蔽广告
-屏蔽网站广告和软件广告，拦截恶意软件，屏蔽跟踪，保护隐私，杜绝垃圾信息骚扰！
+屏蔽网站广告和软件广告，阻止跟踪，阻止恶意软件！
 
 #### 科学上网
 [Google]、[DuckDuckGo]、[Gmail]、[YouTube]、[Facebook]、[Twitter]、[Tumblr]、[Dropbox]、[OneDrive]、[Flickr]！
