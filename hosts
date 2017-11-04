@@ -31613,7 +31613,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.crobo.com
 0.0.0.0 comcast.demdex.net
 0.0.0.0 ecs.demdex.net
-0.0.0.0 collector.githubapp.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 mmtrkpy.com
