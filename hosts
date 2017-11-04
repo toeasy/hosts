@@ -58734,6 +58734,14 @@ fe80::1%lo0 localhost
 198.232.125.81	cdn.rawgit.com
 # RawGit End
 
+# Reuters Start
+52.2.61.110	reuters.com
+52.85.158.178	www.reuters.com
+52.85.158.181	static.reuters.com
+52.85.158.228	uk.reuters.com
+52.85.158.61	cn.reuters.com
+# Reuters End
+
 # Resilio Sync Start
 54.192.75.139	getsync.com
 54.192.75.23	download-cdn.getsync.com
