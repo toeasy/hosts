@@ -9,7 +9,7 @@
 **下载地址**：`https://raw.githubusercontent.com/heiniao/hosts/master/hosts`
 
 #### 使用方法
-```sh
+```bash
 # Linux
 # Terminal
 sudo mv /etc/hosts{,.backup} && \
