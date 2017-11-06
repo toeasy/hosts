@@ -12,7 +12,7 @@
 ```sh
 # Linux
 # Terminal
-sudo mv /etc/hosts{,.backup}
+sudo mv /etc/hosts{,.backup} && \
 sudo wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /etc/hosts
 
 # Windows
