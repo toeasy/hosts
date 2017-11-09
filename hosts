@@ -107,6 +107,9 @@ fe80::1%lo0 localhost
 127.0.0.1 www.naixiu758.com
 127.0.0.1 uc.zhuici.com
 127.0.0.1 b1c2d3.hediao.net
+127.0.0.1 o.aolcdn.com
+127.0.0.1 s1.thzok.com
+127.0.0.1 s2.thzok.com
 
 # End of custom host records.
 
