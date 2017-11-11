@@ -112,6 +112,17 @@ fe80::1%lo0 localhost
 127.0.0.1 s2.thzok.com
 127.0.0.1 s3.thzok.com
 127.0.0.1 s4.thzok.com
+127.0.0.1 aegis.aliyun.com
+127.0.0.1 update.aegis.aliyun.com
+127.0.0.1 update1.aegis.aliyun.com
+127.0.0.1 update2.aegis.aliyun.com
+127.0.0.1 update3.aegis.aliyun.com
+127.0.0.1 update4.aegis.aliyun.com
+127.0.0.1 update5.aegis.aliyun.com
+127.0.0.1 update6.aegis.aliyun.com
+127.0.0.1 update7.aegis.aliyun.com
+127.0.0.1 update8.aegis.aliyun.com
+127.0.0.1 jsrv.aegis.aliyun.com
 
 # End of custom host records.
 
