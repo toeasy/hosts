@@ -1,5 +1,5 @@
 #### 屏蔽广告
-屏蔽网站广告和软件广告，阻止网络跟踪，阻止恶意软件！
+阻止网站广告和软件广告，阻止网络跟踪，阻止恶意软件！
 
 #### 科学上网
 [Google]、[DuckDuckGo]、[Gmail]、[YouTube]、[Facebook]、[Twitter]、[Tumblr]、[Dropbox]、[OneDrive]、[Flickr]！

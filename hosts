@@ -129,6 +129,12 @@ fe80::1%lo0 localhost
 127.0.0.1 bd1.wncx.cn
 127.0.0.1 bd2.wncx.cn
 127.0.0.1 bd3.wncx.cn
+127.0.0.1 bd4.wncx.cn
+127.0.0.1 v1m.youzu.com
+127.0.0.1 v2m.youzu.com
+127.0.0.1 v3m.youzu.com
+127.0.0.1 v4m.youzu.com
+127.0.0.1 ubmcvideo.baidustatic.com
 
 # End of custom host records.
 
