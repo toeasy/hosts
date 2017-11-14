@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-11-13
+# Last updated: 2017-11-14
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -853,6 +853,7 @@ fe80::1%lo0 localhost
 127.0.0.1 www.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.googletagmanager.com
+127.0.0.1 www.google-analytics.com
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
@@ -1586,6 +1587,9 @@ fe80::1%lo0 localhost
 #anquan
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
+#anzhi.com
+127.0.0.1 fd.anzhi.com
+127.0.0.1 pv.anzhi.com
 #base64.xpcha.com
 127.0.0.1 www.pikacn.com
 #bbs.hiapk.com
@@ -2276,6 +2280,8 @@ fe80::1%lo0 localhost
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
+#rrys
+127.0.0.1 pat.farvd.com
 #halolauncher
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
@@ -2481,6 +2487,7 @@ fe80::1%lo0 localhost
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
+127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 static.m.sjzhushou.com
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 127.0.0.1 ads.rubiconproject.com
@@ -5931,6 +5938,9 @@ fe80::1%lo0 localhost
 127.0.0.1 www.chenggao.cn
 127.0.0.1 yun.yuyiya.com
 127.0.0.1 extmoney.i1608.com
+127.0.0.1 yun.lvehaisen.com
+127.0.0.1 api.bailingjiankang.com
+127.0.0.1 m.bailingjiankang.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
