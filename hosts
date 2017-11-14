@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-11-14
+# Last updated: 2017-11-15
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -2926,6 +2926,9 @@ fe80::1%lo0 localhost
 127.0.0.1 a.yjbys.com
 127.0.0.1 abc.yjbys.com
 127.0.0.1 d.yjbys.com
+#baike.com
+127.0.0.1 ehd.baike.com
+127.0.0.1 ll.hudong.com
 #edu.jobui.com
 127.0.0.1 bd2.jobui.com
 127.0.0.1 bd3.jobui.com
@@ -4018,6 +4021,7 @@ fe80::1%lo0 localhost
 127.0.0.1 e.qiyunmuye.com
 127.0.0.1 e.qxfly.com
 127.0.0.1 e.ricpt.com
+127.0.0.1 e.tiantianedu.net
 127.0.0.1 e.tommysdream.net
 127.0.0.1 e.vwws6.net
 127.0.0.1 e.wevvt.com
@@ -4116,6 +4120,7 @@ fe80::1%lo0 localhost
 127.0.0.1 huan.szrk3.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 huhu.jzm81.com
+127.0.0.1 husp.cccccd.com
 127.0.0.1 hxgccl.cn
 127.0.0.1 hyfh.benbaisteel.com
 127.0.0.1 i.9le.net
@@ -4401,6 +4406,7 @@ fe80::1%lo0 localhost
 127.0.0.1 li.fszhxd.com
 127.0.0.1 lin.internetofthings-china.com
 127.0.0.1 link.yida558.com
+127.0.0.1 lkme.cc
 127.0.0.1 log.kuaigeng.com
 127.0.0.1 lol.pnhfc.com
 127.0.0.1 love.66san.com
@@ -4521,6 +4527,7 @@ fe80::1%lo0 localhost
 127.0.0.1 m.symaw.cn
 127.0.0.1 m.syofew6o.net
 127.0.0.1 m.tccti.com
+127.0.0.1 m.tiantianedu.net
 127.0.0.1 m.tommysdream.net
 127.0.0.1 m.tuadong.com
 127.0.0.1 m.twldmx.com
@@ -4711,6 +4718,7 @@ fe80::1%lo0 localhost
 127.0.0.1 s.esyzdb.com
 127.0.0.1 s.ffhtek.com
 127.0.0.1 s.fjxyo.com
+127.0.0.1 s.fm6w.com
 127.0.0.1 s.fytza.cn
 127.0.0.1 s.gg0376.com
 127.0.0.1 s.glasszz.com
@@ -4775,6 +4783,7 @@ fe80::1%lo0 localhost
 127.0.0.1 sccdn.f2zd.com
 127.0.0.1 sdk.appadhoc.com
 127.0.0.1 seen.h01ce.cn
+127.0.0.1 seen.ttfgames.cn
 127.0.0.1 sese.chmae.com
 127.0.0.1 sha.hnasd.com
 127.0.0.1 sha.qjjtc.com
@@ -4984,6 +4993,7 @@ fe80::1%lo0 localhost
 127.0.0.1 weixinssp.14684.com
 127.0.0.1 weld830.uunice.com
 127.0.0.1 weldc1.021ye.com
+127.0.0.1 wen.jshbyn.com
 127.0.0.1 wff.wgnmp.com
 127.0.0.1 whn.star-media.cn
 127.0.0.1 wm.20150.net
