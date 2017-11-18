@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-11-18 UTC+8/GMT+8
+# Last updated: 2017-11-19 00:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -135,6 +135,11 @@ fe80::1%lo0 localhost
 127.0.0.1 v3m.youzu.com
 127.0.0.1 v4m.youzu.com
 127.0.0.1 ubmcvideo.baidustatic.com
+127.0.0.1 aabb123.liuxue86.com
+127.0.0.1 aabb3.liuxue86.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
 
 # End of custom host records.
 
