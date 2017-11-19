@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-11-19 16:00 UTC+8/GMT+8
+# Last updated: 2017-11-19 17:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -2558,6 +2558,10 @@ fe80::1%lo0 localhost
 #http://www.zuimeitianqi.com/
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com
+127.0.0.1 renren2.maoyun.tv
+127.0.0.1 app.xysryh.com
+127.0.0.1 qp.yunanfuwuqi.com
+127.0.0.1 a.ecook.cn
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
