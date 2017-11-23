@@ -23,6 +23,12 @@ sudo wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts
 mv C:\Windows\System32\drivers\etc\hosts C:\Windows\System32\drivers\etc\hosts.backup
 
 wget https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O C:\Windows\System32\drivers\etc\hosts
+
+# Asuswrt-Merli
+
+wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /tmp/hosts
+rm -rf /jffs/configs/hosts
+mv /tmp/hosts /jffs/configs/
 ```
 
 [Google]: https://www.google.com/ncr
