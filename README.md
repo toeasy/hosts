@@ -15,7 +15,7 @@
 
 sudo mv /etc/hosts{,.backup}
 
-sudo wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /etc/hosts
+sudo wget https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /etc/hosts
 
 # Windows
 # Windows PowerShell (Admin)
@@ -26,9 +26,10 @@ wget https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O C:\Windows\
 
 # Asuswrt-Merli
 
+rm -rf /tmp/hosts
 wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /tmp/hosts
 rm -rf /jffs/configs/hosts
-mv /tmp/hosts /jffs/configs/
+mv /tmp/hosts /jffs/configs/hosts
 ```
 
 [Google]: https://www.google.com/ncr
