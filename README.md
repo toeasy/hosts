@@ -14,14 +14,12 @@
 # Terminal
 
 sudo mv /etc/hosts{,.backup}
-
 sudo wget https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /etc/hosts
 
 # Windows
 # Windows PowerShell (Admin)
 
 mv C:\Windows\System32\drivers\etc\hosts C:\Windows\System32\drivers\etc\hosts.backup
-
 wget https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O C:\Windows\System32\drivers\etc\hosts
 
 # Asuswrt-Merli
