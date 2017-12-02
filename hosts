@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-12-03 00:00 UTC+8/GMT+8
+# Last updated: 2017-12-03 01:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -59239,6 +59239,10 @@ fe80::1%lo0 localhost
 54.192.75.27 www.resilio.com
 54.82.227.39 new-bench.resilio.com
 # Resilio Sync End
+
+# Shadowsocks Start
+104.28.18.85 shadowsocks.org
+# Shadowsocks End
 
 # Soundcloud Start
 68.232.44.127 soundcloud.com
