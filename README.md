@@ -24,10 +24,13 @@ wget https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O C:\Windows\
 
 # Asuswrt-Merli
 
+rm -rf /etc/hosts
 rm -rf /tmp/hosts
 wget --no-check-certificate https://raw.githubusercontent.com/heiniao/hosts/master/hosts -O /tmp/hosts
 rm -rf /jffs/configs/hosts
-mv /tmp/hosts /jffs/configs/hosts
+cp /tmp/hosts /etc/hosts
+cp /tmp/hosts /jffs/configs/hosts
+rm -rf /tmp/hosts
 ```
 
 [Google]: https://www.google.com/ncr
