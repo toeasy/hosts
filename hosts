@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-12-16 23:00 UTC+8/GMT+8
+# Last updated: 2017-12-17 21:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -1314,6 +1314,7 @@ fe80::1%lo0 localhost
 127.0.0.1 www.cubcc.com
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
+127.0.0.1 www.taoev.com
 #buy
 127.0.0.1 www.hisense.cn
 127.0.0.1 www.hisense.com
@@ -2644,6 +2645,14 @@ fe80::1%lo0 localhost
 127.0.0.1 hyfh.benbaisteel.com
 127.0.0.1 bdjs.58news.org
 127.0.0.1 bddm.58news.org
+127.0.0.1 jian1.juqingba.cn
+127.0.0.1 wuliao.juqingba.cn
+127.0.0.1 bd1.flfgw.cn
+127.0.0.1 bd2.flfgw.cn
+127.0.0.1 bd1.home8080.cn
+127.0.0.1 bd2.home8080.cn
+127.0.0.1 js.daxueshengqiandai.com
+127.0.0.1 ssp.daxueshengqiandai.com
 #m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.69shuwu.com
@@ -3092,6 +3101,19 @@ fe80::1%lo0 localhost
 127.0.0.1 s.bjgtsh.com
 127.0.0.1 sui.cdgjxt.com
 127.0.0.1 uqum.52shouyou.com.cn
+127.0.0.1 js6878.bjyikao.org
+127.0.0.1 v.szpaopao.com
+127.0.0.1 e.diogv.com
+127.0.0.1 e.jingonghuanbao.com
+127.0.0.1 img.kanuxian.cn
+127.0.0.1 m.diogv.com
+127.0.0.1 m.jingonghuanbao.com
+127.0.0.1 m.qusub.com
+127.0.0.1 p.ynjczy.net
+127.0.0.1 chjxzk.1555110.cn
+127.0.0.1 f1.luoshenbest.cn
+127.0.0.1 lm.souid.com
+127.0.0.1 nai.cpxkvc.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
