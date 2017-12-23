@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-12-23 01:00 UTC+8/GMT+8
+# Last updated: 2017-12-23 13:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -59232,20 +59232,20 @@ fe80::1%lo0 localhost
 66.6.32.22 times.pixiv.net
 210.129.120.50 recruit.pixiv.net
 210.129.120.49 pixiv.net
-113.33.39.198 p2.pixiv.net
-210.129.120.47 matsuri.pixiv.net
+122.208.114.218 p2.pixiv.net
+52.84.203.238 matsuri.pixiv.net
 210.129.120.46 m.pixiv.net
-52.85.87.254 iracon.pixiv.net
+52.84.203.163 iracon.pixiv.net
 52.69.82.228 inside.pixiv.net
 210.140.131.147 i1.pixiv.net
 153.120.23.207 help.pixiv.net
 210.129.120.43 goods.pixiv.net
 210.129.120.40 genepixiv.pr.pixiv.net
-52.85.87.122 festa.pixiv.net
+52.84.203.136 festa.pixiv.net
 210.129.120.45 en.dic.pixiv.net
-52.219.4.114 dev.pixiv.net
+52.219.68.134 dev.pixiv.net
 210.129.120.42 chat.pixiv.net
-113.33.39.198 blog.pixiv.net
+122.208.114.218 blog.pixiv.net
 210.129.120.43 embed.pixiv.net
 210.129.120.44 comic-api.pixiv.net
 # Pixiv End
