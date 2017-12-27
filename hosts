@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-12-25 22:00 UTC+8/GMT+8
+# Last updated: 2017-12-27 23:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -43647,6 +43647,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pings.blip.tv
 0.0.0.0 p.iovation.com
 0.0.0.0 pix02.revsci.net
+0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel-geo.prfct.co
 0.0.0.0 pmg.ad-logics.com
 0.0.0.0 pointclicktrack.com
@@ -50697,6 +50698,7 @@ fe80::1%lo0 localhost
 0.0.0.0 rubyfortune.com
 0.0.0.0 rubylan.net
 0.0.0.0 rubytag.net
+0.0.0.0 runtime.lemonpi.io
 0.0.0.0 ru.redtram.com
 0.0.0.0 ruspolice.com
 0.0.0.0 ruspolice.net
@@ -55345,6 +55347,7 @@ fe80::1%lo0 localhost
 0.0.0.0 creative.whi.co.nz
 0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 credishe.com
+0.0.0.0 crispads.com
 0.0.0.0 criteo.com
 0.0.0.0 critictruck.com
 0.0.0.0 croissed.info
@@ -55402,7 +55405,6 @@ fe80::1%lo0 localhost
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 e-planning.net
 0.0.0.0 e.kde.cz
-0.0.0.0 eadexchange.com
 0.0.0.0 easyhits4u.com
 0.0.0.0 ebuzzing.com
 0.0.0.0 ecircle-ag.com
@@ -56325,6 +56327,7 @@ fe80::1%lo0 localhost
 # 0.0.0.0 example.com
 
 
+# This work is licensed under a modified HOSTS License.
 
 # Modified Hosts Start
 
