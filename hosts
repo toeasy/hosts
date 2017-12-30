@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2017-12-31 01:00 UTC+8/GMT+8
+# Last updated: 2017-12-31 03:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -58987,11 +58987,11 @@ fe80::1%lo0 localhost
 
 # Instagram Start
 52.45.94.103 instagram.com
-157.240.11.52 www.instagram.com
-157.240.11.52 badges.instagram.com
-157.240.11.52 scontent.cdninstagram.com
-157.240.11.52 scontent-b.cdninstagram.com
-157.240.11.52 graph.instagram.com
+157.240.11.172 www.instagram.com
+157.240.11.172 badges.instagram.com
+157.240.11.172 scontent.cdninstagram.com
+157.240.11.172 scontent-b.cdninstagram.com
+157.240.11.172 graph.instagram.com
 31.13.70.52 logger.instagram.com
 31.13.70.52 maps.instagram.com
 31.13.77.52 scontent-a.cdninstagram.com
