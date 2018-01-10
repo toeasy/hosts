@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-01-07 03:00 UTC+8/GMT+8
+# Last updated: 2018-01-10 09:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -2578,6 +2578,7 @@ fe80::1%lo0 localhost
 127.0.0.1 xs.swagger1.com
 127.0.0.1 hoisin.coocaatv.com
 127.0.0.1 kovjo.com
+127.0.0.1 fzz.cloud.1234507.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -2978,6 +2979,8 @@ fe80::1%lo0 localhost
 #edu.jobui.com
 127.0.0.1 bd2.jobui.com
 127.0.0.1 bd3.jobui.com
+#muchong.com
+127.0.0.1 z1hihu.xmcimg.com
 #m.gushiwen.org
 127.0.0.1 bai3.gushiwen.org
 #m.liuxiaoer.com
@@ -3162,6 +3165,10 @@ fe80::1%lo0 localhost
 127.0.0.1 ssp.zf313.com
 127.0.0.1 img.butanian.com
 127.0.0.1 www.tujidao.com
+127.0.0.1 www.ynwqls.com
+127.0.0.1 e.nduop.com
+127.0.0.1 s.maipubao.cn
+127.0.0.1 in.djhbxz.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
