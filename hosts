@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-01-14 02:00 UTC+8/GMT+8
+# Last updated: 2018-01-14 11:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -1816,9 +1816,25 @@ fe80::1%lo0 localhost
 #www.epinv.com
 127.0.0.1 a.epinv.com
 127.0.0.1 b.epinv.com
+#ali-yunos
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+127.0.0.1 tvupgrade.yunos.com
+127.0.0.1 uuidapi.yunos.com
+#gionee-amigo
 127.0.0.1 ads.gionee.com
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
+#mokee
+127.0.0.1 stats.mokeedev.com
+#oppo-ads
+127.0.0.1 adsfs.oppomobile.com
+127.0.0.1 adx.ads.oppomobile.com
+127.0.0.1 bdapi.ads.oppomobile.com
+127.0.0.1 data.ads.oppomobile.com
+127.0.0.1 httpdns.push.oppomobile.com
+#xgimi
+127.0.0.1 analytics.xgimi.com
 #flyme-ads
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 bro.flyme.cn
@@ -1937,25 +1953,6 @@ fe80::1%lo0 localhost
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 irs01.com
-127.0.0.1 stats.mokeedev.com
-#oppo-ads
-127.0.0.1 adsfs.oppomobile.com
-127.0.0.1 adx.ads.oppomobile.com
-127.0.0.1 bdapi.ads.oppomobile.com
-127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 httpdns.push.oppomobile.com
-#oppo-browser
-127.0.0.1 i.flow.browser.oppomobile.com
-127.0.0.1 imagzine.oppomobile.com
-127.0.0.1 fs.uc.nearme.com.cn
-127.0.0.1 i.stat.nearme.com.cn
-127.0.0.1 kv.stat.nearme.com.cn
-127.0.0.1 stat.browser.nearme.com.cn
-127.0.0.1 oppo.yidianzixun.com
-127.0.0.1 i1.go2yd.com
-127.0.0.1 rl.go2yd.com
-127.0.0.1 s.go2yd.com
-127.0.0.1 web-track.go2yd.com
 #http://www.bitcomet.com/
 127.0.0.1 inside.bitcomet.com
 #http://player.gomlab.com/
@@ -1984,11 +1981,6 @@ fe80::1%lo0 localhost
 #http://www.jjvod.com/
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 txtad.jijiplayer.com
-127.0.0.1 analytics.xgimi.com
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-127.0.0.1 tvupgrade.yunos.com
-127.0.0.1 uuidapi.yunos.com
 #lenovo-ads
 127.0.0.1 adcore.lenovomm.com
 127.0.0.1 pushapi.lenovomm.com
@@ -2673,6 +2665,8 @@ fe80::1%lo0 localhost
 127.0.0.1 bds.hainan.net
 127.0.0.1 script-bd.baixing.net
 127.0.0.1 tu.baixing.com
+127.0.0.1 abc.sundxs.com
+127.0.0.1 b.sundxs.com
 #m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.69shuwu.com
@@ -3183,7 +3177,16 @@ fe80::1%lo0 localhost
 127.0.0.1 img.wuben56.com
 127.0.0.1 et.ganyite.com
 127.0.0.1 czf.cchfjz.com
-
+127.0.0.1 c.mkmp365.com
+127.0.0.1 img3.qekun.com
+127.0.0.1 s.sqwscy.com
+127.0.0.1 mwa.xingyimin.com
+127.0.0.1 e.wnxcg.com
+127.0.0.1 m.ksttwz.com
+127.0.0.1 m.kewro.com
+127.0.0.1 e.ksttwz.com
+127.0.0.1 code.laojiayoufang.com
+127.0.0.1 items.bingdiantao.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
