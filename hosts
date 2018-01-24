@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-01-25 06:00 UTC+8/GMT+8
+# Last updated: 2018-01-25 07:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -58597,8 +58597,8 @@ fe80::1%lo0 localhost
 125.209.252.18 gd2g.line.naver.jp
 125.209.252.17 gd2i.line.naver.jp
 125.209.222.59 gd2k.line.naver.jp
-125.209.222.202 gd2w.line.naver.jp
-125.209.222.202 gww.line.naver.jp
+125.209.222.70 gd2w.line.naver.jp
+125.209.222.70 gww.line.naver.jp
 203.104.174.18 gwx.line.naver.jp
 223.119.50.146 dl.profile.line.naver.jp
 223.119.50.144 dl.stickershop.line.naver.jp
@@ -58608,7 +58608,7 @@ fe80::1%lo0 localhost
 104.111.208.121 shop.line-scdn.net
 104.102.162.148 stickershop.line-scdn.net
 23.211.98.191 obs.line-scdn.net
-2.17.56.25 profile.line-scdn.net
+2.17.56.25 ishprofile.line-scdn.net
 # Line End
 
 # MEGA Start
