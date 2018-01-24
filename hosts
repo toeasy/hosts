@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-01-24 00:00 UTC+8/GMT+8
+# Last updated: 2018-01-25 00:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -59050,8 +59050,8 @@ fe80::1%lo0 localhost
 69.147.88.7 flickr.com
 119.161.14.18 m.flickr.com
 69.147.76.173 secure.flickr.com
-124.108.101.10 www.flickr.com
-124.108.101.10 heartbeat.flickr.com
+119.161.14.17 www.flickr.com
+119.161.14.17 heartbeat.flickr.com
 209.73.190.11 api.flickr.com
 209.73.190.12 up.flickr.com
 68.142.242.184 downloadr.flickr.com
