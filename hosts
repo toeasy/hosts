@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-01-25 00:00 UTC+8/GMT+8
+# Last updated: 2018-01-25 04:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -56124,7 +56124,6 @@ fe80::1%lo0 localhost
 157.240.7.35 scontent-a-sin.xx.fbcdn.net
 157.240.7.35 scontent-b-lax.xx.fbcdn.net
 157.240.7.35 scontent-b-sin.xx.fbcdn.net
-157.240.7.35 static.xx.fbcdn.net
 157.240.7.35 static.thefacebook.com
 157.240.7.35 attachment.fbsbx.com
 157.240.7.35 messenger.com
@@ -56147,6 +56146,7 @@ fe80::1%lo0 localhost
 192.0.78.13 rightsmanager.fb.com
 192.0.78.13 techprep.fb.com
 192.0.78.13 work.fb.com
+31.13.91.15 static.xx.fbcdn.net
 31.13.91.15 scontent-lax3-1.xx.fbcdn.net
 31.13.91.15 scontent-lax3-2.xx.fbcdn.net
 31.13.91.15 scontent-lax3-3.xx.fbcdn.net
@@ -58471,13 +58471,13 @@ fe80::1%lo0 localhost
 31.13.77.52 scontent-a.cdninstagram.com
 52.45.94.103 i.instagram.com
 52.45.94.103 api.instagram.com
-31.13.76.84 help.instagram.com
-31.13.76.84 scontent-sea1-1.cdninstagram.com
-31.13.76.84 platform.instagram.com
+31.13.76.172 help.instagram.com
+31.13.76.172 scontent-sea1-1.cdninstagram.com
+31.13.76.172 platform.instagram.com
 66.6.32.22 blog.instagram.com
 31.13.95.48 scontent-hkg3-1.cdninstagram.com
 157.240.15.63 scontent-hkg3-2.cdninstagram.com
-31.13.78.52 scontent-sit4-1.cdninstagram.com
+31.13.78.174 scontent-sit4-1.cdninstagram.com
 # Instagram End
 
 # issuu Start
