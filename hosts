@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-01-25 09:00 UTC+8/GMT+8
+# Last updated: 2018-01-25 13:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -58585,6 +58585,7 @@ fe80::1%lo0 localhost
 203.104.150.46 obs.line-apps.com
 125.209.238.181 obs-cn.line-apps.com
 203.104.153.6 obs-tw.line-apps.com
+203.104.129.165 line-bot-cms-app-web.line-apps.com
 125.209.238.186 xcdn-cn.line-apps.com
 125.209.238.186 xcdn-cn-prf.line-apps.com
 125.209.238.186 xcdn-cn-shp.line-apps.com
