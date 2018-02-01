@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-02-01 18:00 UTC+8/GMT+8
+# Last updated: 2018-02-02 01:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -1363,6 +1363,7 @@ fe80::1%lo0 localhost
 127.0.0.1 www.gome.com.cn
 127.0.0.1 maimai.cn
 127.0.0.1 acc.maimai.cn
+127.0.0.1 www.qianshengqian.com
 @down
 #down-2345
 127.0.0.1 dl.2345.com
