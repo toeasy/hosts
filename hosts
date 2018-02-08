@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-02-07 20:00 UTC+8/GMT+8
+# Last updated: 2018-02-08 13:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -3301,6 +3301,11 @@ fe80::1%lo0 localhost
 127.0.0.1 fxc.aiquxs.com
 127.0.0.1 pwj.biqugezw.com
 127.0.0.1 vmzqwz.cn
+127.0.0.1 e.tdtsd.com
+127.0.0.1 imgs.aiquxs.com
+127.0.0.1 imgs.biqugezw.com
+127.0.0.1 m.symag.cn
+127.0.0.1 www.geiyujieda.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
