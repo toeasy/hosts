@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-02-10 15:00 UTC+8/GMT+8
+# Last updated: 2018-02-11 00:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -71104,6 +71104,10 @@ ff02::2 ip6-allrouters
 # Vnet Start
 149.56.30.149 vnet.link
 # Vnet End
+
+# W3schools Start
+192.229.173.207 www.w3schools.com
+# W3schools End
 
 # Whatsapp Start
 107.23.234.123 www-cdn.whatsapp.net
