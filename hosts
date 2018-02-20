@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-02-20 10:00 UTC+8/GMT+8
+# Last updated: 2018-02-21 00:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -11883,6 +11883,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn.radiatewheel.info
 0.0.0.0 cdn.static-cnt.bid
+0.0.0.0 certifiedwinners.today
 0.0.0.0 changduk26.com
 0.0.0.0 check.goodroundtoupdates.date
 0.0.0.0 chelick.net
@@ -38557,7 +38558,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 arc1.msn.com
 0.0.0.0 arcadebanners.com
 0.0.0.0 are-ter.com
-0.0.0.0 art19.com
 0.0.0.0 as1.advfn.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 attributiontracker.com
@@ -38684,7 +38684,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 budsinc.com
 0.0.0.0 buyhitscheap.com
 0.0.0.0 buysellads.com
-0.0.0.0 bvalphaserver.com
 0.0.0.0 bwp.download.com
 0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1exchange.com
@@ -39410,7 +39409,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
-0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
@@ -39485,7 +39483,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
 0.0.0.0 sedotracker.com
-0.0.0.0 segment.com
 0.0.0.0 sendmepixel.com
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 separatesilver.com
@@ -39564,7 +39561,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.mirrorfootball.co.uk
-0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.self.com
 0.0.0.0 stats.unwired-i.net
@@ -63550,43 +63546,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 installer.betterinstaller.com
 0.0.0.0 installer.filebulldog.com
 0.0.0.0 nsis.bisrv.com
-0.0.0.0 googleadapis.l.google.com
-0.0.0.0 adclick.g.doublecklick.net
-0.0.0.0 adeventtracker.spotify.com
-0.0.0.0 ads-fa.spotify.com
-0.0.0.0 adnxs.comadplexmedia.adk2x.com
-0.0.0.0 apresolve.spotify.com
-0.0.0.0 analytics.spotify.com
-0.0.0.0 audio-sp-sto.spotify.com
-0.0.0.0 audio2.spotify.com
-#0.0.0.0 beta.spotify.map.fastly.net
-
-0.0.0.0 content.bitsontherun.com
-0.0.0.0 cs126.wpc.edgecastcdn.net
-0.0.0.0 crashdump.spotify.com
-0.0.0.0 d2gi7ultltnc2u.cloudfront.net
-0.0.0.0 d3rt1990lpmkn.cloudfront.net
-0.0.0.0 desktop.spotify.com
-#0.0.0.0 fastly.net
-
-0.0.0.0 gew1.ap.spotify.com
-0.0.0.0 gtssl2-ocsp.geotrust.com
-0.0.0.0 log.spotify.com
-0.0.0.0 lon6-accesspoint-a33.lon6.spotify.com
-0.0.0.0 omaze.com
-0.0.0.0 redirector.gvt1.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 spclient.wg.spotify.com
-0.0.0.0 server-54-230-216-203.mrs50.r.cloudfront.net
-0.0.0.0 seen-on-screen.thewhizmarketing.com
-#0.0.0.0 t.scdn.co
-
-0.0.0.0 u.scdn.co
-0.0.0.0 upgrade.scdn.co
-0.0.0.0 upgrade.spotify.com
-0.0.0.0 v.jwpcdn.com
-0.0.0.0 weblb-wg.gslb.spotify.com
-0.0.0.0 www.omaze.com
 ### Extra rules for @StevenBlack 's hosts project
 
 
@@ -65280,6 +65239,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.ads.mojiva.com
 0.0.0.0 adcontent.saymedia.com
 0.0.0.0 ftpcontent.worldnow.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 bigmobileads.com
 0.0.0.0 banners.bigmobileads.com
 0.0.0.0 images.mpression.net
