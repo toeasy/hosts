@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-02-25 13:00 UTC+8/GMT+8
+# Last updated: 2018-02-26 02:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -38968,6 +38968,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.tv
+0.0.0.0 fullstory.com
 0.0.0.0 functionalclam.com
 0.0.0.0 funklicks.com
 0.0.0.0 funpageexchange.com
@@ -39308,6 +39309,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.blindferret.com
 0.0.0.0 opienetwork.com
+0.0.0.0 opinionstage.com
 0.0.0.0 optimost.com
 0.0.0.0 optmd.com
 0.0.0.0 ordingly.com
@@ -63524,7 +63526,7 @@ ff02::2 ip6-allrouters
 
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
 
-# Last modified: 25 02 2018 00:00
+# Last modified: 25 02 2018 15:05
 
 # [CoinBlocker hosts List browser by ZeroDot1]
 
@@ -63619,7 +63621,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 authedmine.com
 0.0.0.0 authedwebmine.cz
 0.0.0.0 auto.monerise.com
-0.0.0.0 avatar.pr0gramm.com
 0.0.0.0 avualrhg9p.bid
 0.0.0.0 b.proxy4.nullrefexcep.com
 0.0.0.0 bablace.com
@@ -63871,7 +63872,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gus.host
 0.0.0.0 gustaver.ddns.ne
 0.0.0.0 gustaver.ddns.net
-0.0.0.0 hans.pr0gramm.com
 0.0.0.0 hashto.cash
 0.0.0.0 hashvault.pro
 0.0.0.0 hatcalter.com
@@ -63883,12 +63883,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
 0.0.0.0 host.d-ns.ga
-0.0.0.0 hurensohn.pr0gramm.com
 0.0.0.0 hzsod71wov.me
 0.0.0.0 igrid.org
 0.0.0.0 iisl7wpf.me
 0.0.0.0 img.jsecoin.com
-0.0.0.0 img.pr0gramm.com
 0.0.0.0 infamylists.com
 0.0.0.0 ingorob.com
 0.0.0.0 insdrbot.com
@@ -64082,7 +64080,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pool.sumokoin.hashvault.pro
 0.0.0.0 pool.supportxmr.com
 0.0.0.0 pool2.coinimp.com
-0.0.0.0 pr0gramm.com
 0.0.0.0 premiumstats.xyz
 0.0.0.0 pricefbcf.gq
 0.0.0.0 proxy-ajcryptominer.ajplugins.com
@@ -64210,7 +64207,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
-0.0.0.0 thumb.pr0gramm.com
 0.0.0.0 tidafors.xyz
 0.0.0.0 todogecoin.biz
 0.0.0.0 toftofcal.com
@@ -64242,7 +64238,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 verresof.com
 0.0.0.0 vg02h8z1ul.me
 0.0.0.0 viaxmr.com
-0.0.0.0 vid.pr0gramm.com
 0.0.0.0 vidfile.net
 0.0.0.0 vjcyehtqm9.me
 0.0.0.0 vl8c4g7tmo.me
@@ -64636,7 +64631,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wss.nablabee.com
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 wty46.com
-0.0.0.0 ww.pr0gramm.com
 0.0.0.0 ww8.adminer.com
 0.0.0.0 www-tb7c.pr0gramm.com
 0.0.0.0 www.ad-miner.com
@@ -64685,7 +64679,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pool.coinimp.com
 0.0.0.0 www.pool.cryptonoter.com
 0.0.0.0 www.pool2.coinimp.com
-0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.sbhmn-miner.com
 0.0.0.0 www.sparechange.io
 0.0.0.0 www.test.cryptonoter.com
