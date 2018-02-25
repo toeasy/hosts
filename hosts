@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-02-26 02:00 UTC+8/GMT+8
+# Last updated: 2018-02-26 03:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -7930,7 +7930,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 login.dotomi.net
 0.0.0.0 external.stealthedeal.com
 0.0.0.0 goodblock.gladly.io
-0.0.0.0 help.evernote.com
 0.0.0.0 jackbootedroom.com
 0.0.0.0 mackeeperapp.zeobit.com
 0.0.0.0 montrealgazette.stats.com
