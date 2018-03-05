@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-03-05 11:00 UTC+8/GMT+8
+# Last updated: 2018-03-05 23:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -3423,6 +3423,7 @@ fe80::1%lo0 localhost
 127.0.0.1 www.qupinhj.com
 127.0.0.1 e.romgv.com
 127.0.0.1 m.romgv.com
+127.0.0.1 fpbbdx1.51240.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
