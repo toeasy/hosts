@@ -3,7 +3,7 @@
 # https://github.com/heiniao/hosts
 # https://raw.githubusercontent.com/heiniao/hosts/master/hosts
 
-# Last updated: 2018-03-07 13:00 UTC+8/GMT+8
+# Last updated: 2018-03-07 14:00 UTC+8/GMT+8
 
 # This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via Github.
 
@@ -2613,6 +2613,8 @@ fe80::1%lo0 localhost
 127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
 #jbzj.com
 127.0.0.1 jscode.jbzj.com
+#m.babayu.com
+127.0.0.1 w.jscsd.cn
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -3001,6 +3003,10 @@ fe80::1%lo0 localhost
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 e.dxmci.com
+127.0.0.1 j.qijijs.top
+127.0.0.1 love.yy0555.com
+127.0.0.1 y.shuoshuocm.com
 127.0.0.1 e.lifuzhubao.com
 127.0.0.1 js2553.xjzyq.com
 127.0.0.1 kn.archrug.com
